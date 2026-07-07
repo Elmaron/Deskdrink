@@ -28,7 +28,7 @@ Download the newest release for your machine and run deskdrink-portable.exe, des
 
 Check, if you're using an x64/x86 or arm-based machine.
 
-Download the newest release for your machine and run deskdrink-installer.exe, deskdrink-installer-x86.exe, or deskdrink-installer-arm64.exe to start the installation.
+Download the newest release for your machine and run deskdrink-setup.exe, deskdrink-setup-x86.exe, or deskdrink-installer-setup.exe to start the installation.
 
 ### MacOS
 

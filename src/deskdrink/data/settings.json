@@ -1,0 +1,7 @@
+{
+    "interval" : 15,
+    "title" : "Deskdrink Reminder" ,
+    "message" : "It's time to take a sip of your drink!",
+    "icon" : "icons/glas_of_water.png",
+    "audio" : ""
+}

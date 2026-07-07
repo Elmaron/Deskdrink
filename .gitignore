@@ -1,4 +1,3 @@
-output
 venv
 __pycache__
 design
@@ -7,3 +6,4 @@ src/dist
 src/build
 src/deskdrink.spec
 build
+venv_x64

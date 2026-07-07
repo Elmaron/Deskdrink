@@ -18,6 +18,12 @@
 
 ## Installation
 
+### Windows-Portable
+
+Check, if you're using an x64/x86 or arm-based machine.
+
+Download the newest release for your machine and run deskdrink-portable.exe, deskdrink-portable-x86.exe or deskdrink-portable-arm64.exe to run the application.
+
 ### Windows
 
 Check, if you're using an x64/x86 or arm-based machine.
